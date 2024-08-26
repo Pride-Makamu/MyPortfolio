@@ -1,6 +1,8 @@
 # MyPortfolio
 
-This is my portfolio website about me that has 4 sections:
+This is my portfolio website about me.
+
+It consists of 4 sections:
 
 1.About Me section - Has a summary and picture of me.
 
